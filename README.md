@@ -1,24 +1,25 @@
-### Hello World  👋
+# Hi there, I'm Johnathan Blackburn! 👋
+When I consume copious amounts of coffee and inject anime music directly into my ears, the energy is then channeled through my fingers to create amazing code!
 
-##
-- ✍  [portfolio]
+## 📚 Portfolio
+Check out my portfolio: [Portfolio](https://cocodes.github.io/) *deprecated, new version in development
 
-### 
-[<img align="left" alt="Johnathan Blackburn | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+## 📫 Contact
+Let's connect: [LinkedIn](https://www.linkedin.com/in/jhblackburn/) | [GitHub](https://github.com/cocodes)
 
-<br />
+## 🚀 Featured Projects
+### Project 1 - Portfolio
+Work in progress
 
-### Languages and Tools:
+## 🔧 Languages and Tools
+<div align="center">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML" width="50"/>
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS" width="50"/>
+</div>
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+## 🌱 Currently Learning
+Typescript, but also exploring other new technologies and frameworks to keep my skills up-to-date.
 
-[linkedin]: https://www.linkedin.com/in/jhblackburn/
-[portfolio]: https://cocodes.github.io/
+## 💬 Let's Connect
+Feel free to reach out if you want to collaborate or chat about coding and tech
+I also would love to hear about your favorite anime as well!
