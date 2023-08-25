@@ -12,13 +12,14 @@ Let's connect: [LinkedIn](https://www.linkedin.com/in/jhblackburn/) | [GitHub](h
 Work in progress
 
 ## 🔧 Languages and Tools
-<div align="center">
+<div>
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML" width="50"/>
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS" width="50"/>
 </div>
 
 ## 🌱 Currently Learning
-Typescript, but also exploring other new technologies and frameworks to keep my skills up-to-date.
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" alt="typescript" width="50"/>
+, but also exploring other new technologies and frameworks to keep my skills up-to-date.
 
 ## 💬 Let's Connect
 Feel free to reach out if you want to collaborate or chat about coding and tech
