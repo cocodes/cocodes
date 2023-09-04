@@ -11,15 +11,25 @@ Let's connect: [LinkedIn](https://www.linkedin.com/in/jhblackburn/) | [GitHub](h
 ### Project 1 - Portfolio
 Work in progress
 
+### Project 2 -
+Work in progress
+
+### Project 3 -
+Work in progress
+
 ## 🔧 Languages and Tools
-<div>
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML" width="50"/>
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS" width="50"/>
-</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,vue,git,postman,vite,vscode,bash,powershell" />
+  </a>
+</p>
 
 ## 🌱 Currently Learning
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" alt="typescript" width="50"/>
-, but also exploring other new technologies and frameworks to keep my skills up-to-date.
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,nuxtjs,laravel,php,mysql,threejs,tailwind" />
+  </a>
+</p>
 
 ## 💬 Let's Connect
 Feel free to reach out if you want to collaborate or chat about coding and tech
