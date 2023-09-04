@@ -5,7 +5,13 @@ When I consume copious amounts of coffee and inject anime music directly into my
 Check out my portfolio: [Portfolio](https://cocodes.github.io/) *deprecated, new version in development
 
 ## 📫 Contact
-Let's connect: [LinkedIn](https://www.linkedin.com/in/jhblackburn/) | [GitHub](https://github.com/cocodes)
+Let's connect: 
+<a href="https://www.linkedin.com/in/jhblackburn/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+<a href="https://github.com/cocodes">
+    <img src="https://skillicons.dev/icons?i=github" />
+</a>
 
 ## 🚀 Featured Projects
 ### Project 1 - Portfolio
